@@ -1,8 +1,6 @@
 import React from "react";
 import { createSwitchNavigator } from "react-navigation";
 
-import MainTabNavigator from "./MainTabNavigator";
-
 import BagListScreen from "../screens/BagListScreen";
 import HomeScreen from "../screens/HomeScreen";
 
