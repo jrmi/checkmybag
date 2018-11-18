@@ -1,0 +1,661 @@
+{
+    "categories":[
+        {
+            "key": "Official documents",
+            "data": [
+                {
+                    "key": "ID card",
+                    "description": "..."
+                },
+                {
+                    "key": "Passport",
+                    "description": "..."
+                },
+                {
+                    "key": "Visa",
+                    "description": "..."
+                },
+                {
+                    "key": "Vaccination book",
+                    "description": "..."
+                },
+                {
+                    "key": "Driving licence",
+                    "description": "..."
+                },
+                {
+                    "key": "Student/Teacher card",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Payment",
+            "data": [
+                {
+                    "key": "Credit card",
+                    "description": "..."
+                },
+                {
+                    "key": "Checks",
+                    "description": "..."
+                },
+                {
+                    "key": "Foreign currency",
+                    "description": "..."
+                },
+                {
+                    "key": "Change",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Transportation",
+            "data": [
+                {
+                    "key": "Plane/Bus/Train ticket",
+                    "description": "..."
+                },
+                {
+                    "key": "Car keys",
+                    "description": "..."
+                },
+                {
+                    "key": "Discount card",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Under clothing",
+            "data": [
+                {
+                    "key": "Panties/Underwears",
+                    "description": "..."
+                },
+                {
+                    "key": "Socks",
+                    "description": "..."
+                },
+                {
+                    "key": "Bras",
+                    "description": "..."
+                },
+                {
+                    "key": "Pyjamas",
+                    "description": "..."
+                },
+                {
+                    "key": "Swimsuit",
+                    "description": "..."
+                },
+                {
+                    "key": "Belt",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Top clothings",
+            "data": [
+                {
+                    "key": "Sweaters",
+                    "description": "..."
+                },
+                {
+                    "key": "T-shirt",
+                    "description": "..."
+                },
+                {
+                    "key": "Shirt",
+                    "description": "..."
+                },
+                {
+                    "key": "Jacket",
+                    "description": "..."
+                },
+                {
+                    "key": "Fleece",
+                    "description": "..."
+                },
+                {
+                    "key": "Scarf",
+                    "description": "..."
+                },
+                {
+                    "key": "Coat",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Bottom clothings",
+            "data": [
+                {
+                    "key": "Pants / Dress",
+                    "description": "..."
+                },
+                {
+                    "key": "Shorts / Skirt",
+                    "description": "..."
+                },
+                {
+                    "key": "Evening dress",
+                    "description": "..."
+                },
+                {
+                    "key": "Pareo",
+                    "description": "..."
+                },
+                {
+                    "key": "Ski suit",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Headgear",
+            "data": [
+                {
+                    "key": "Hat",
+                    "description": "..."
+                },
+                {
+                    "key": "Cold Cap",
+                    "description": "..."
+                },
+                {
+                    "key": "Elastic / Clip",
+                    "description": "..."
+                },
+                {
+                    "key": "Glasses/Lenses",
+                    "description": "..."
+                },
+                {
+                    "key": "Cap",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Shoes",
+            "data": [
+                {
+                    "key": "Street shoes",
+                    "description": "..."
+                },
+                {
+                    "key": "Sports shoes",
+                    "description": "..."
+                },
+                {
+                    "key": "Water shoes",
+                    "description": "..."
+                },
+                {
+                    "key": "Slippers",
+                    "description": "..."
+                },
+                {
+                    "key": "Boots",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Rain protection",
+            "data": [
+                {
+                    "key": "Rain jacket",
+                    "description": "..."
+                },
+                {
+                    "key": "Raincoat",
+                    "description": "..."
+                },
+                {
+                    "key": "Umbrella",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Hygenie",
+            "data": [
+                {
+                    "key": "Soap",
+                    "description": "..."
+                },
+                {
+                    "key": "Shampoo",
+                    "description": "..."
+                },
+                {
+                    "key": "Cotton swabs",
+                    "description": "..."
+                },
+                {
+                    "key": "Toothbrush",
+                    "description": "..."
+                },
+                {
+                    "key": "Toothpaste",
+                    "description": "..."
+                },
+                {
+                    "key": "Towels",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Cosmetics",
+            "data":[
+                {
+                    "key": "Deodorant",
+                    "description": "..."
+                },
+                {
+                    "key": "Perfume",
+                    "description": "..."
+                },
+                {
+                    "key": "Make up",
+                    "description": "..."
+                },
+                {
+                    "key": "Lip Balm",
+                    "description": "..."
+                },
+                {
+                    "key": "Gel/Laquer",
+                    "description": "..."
+                },
+                {
+                    "key": "Shaving gel",
+                    "description": "..."
+                },
+                {
+                    "key": "Laundry bag",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Toilet bag",
+            "data":[
+                {
+                    "key": "Nail clippers",
+                    "description": "..."
+                },
+                {
+                    "key": "Tweezers",
+                    "description": "..."
+                },
+                {
+                    "key": "Tissues",
+                    "description": "..."
+                },
+                {
+                    "key": "Toilet paper",
+                    "description": "..."
+                },
+                {
+                    "key": "Scissors",
+                    "description": "..."
+                },
+                {
+                    "key": "Earplugs",
+                    "description": "..."
+                },
+                {
+                    "key": "Comb brush",
+                    "description": "..."
+                },
+                {
+                    "key": "Hygienic towel",
+                    "description": "..."
+                },
+                {
+                    "key": "Razors",
+                    "description": "..."
+                },
+                {
+                    "key": "Jewels",
+                    "description": "..."
+                },
+                {
+                    "key": "Epilator",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Drugs",
+            "data": [
+                {
+                    "key": "Against headache",
+                    "description": "..."
+                },
+                {
+                    "key": "Against diarrhea",
+                    "description": "..."
+                },
+                {
+                    "key": "Antibiotics",
+                    "description": "..."
+                },
+                {
+                    "key": "Current prescription",
+                    "description": "..."
+                },
+                {
+                    "key": "Against burns",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Health",
+            "data":[
+                {
+                    "key": "Disinfectant",
+                    "description": "..."
+                },
+                {
+                    "key": "Sunscreen",
+                    "description": "..."
+                },
+                {
+                    "key": "Bandage",
+                    "description": "..."
+                },
+                {
+                    "key": "For blister",
+                    "description": "..."
+                },
+                {
+                    "key": "Bandages",
+                    "description": "..."
+                },
+                {
+                    "key": "Physioligical saline",
+                    "description": "..."
+                },
+                {
+                    "key": "Cleansing pad for water",
+                    "description": "..."
+                },
+                {
+                    "key": "Contraceptives",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Against mosquitoes",
+            "data": [
+                {
+                    "key": "Mosquito spray",
+                    "description": "..."
+                },
+                {
+                    "key": "Buttons treatment",
+                    "description": "..."
+                },
+                {
+                    "key": "Mosquito net",
+                    "description": "..."
+                },
+                {
+                    "key": "Against malaria",
+                    "description": "..."
+                },
+                {
+                    "key": "Mosiquito coils",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Electronical devices",
+            "data": [
+                {
+                    "key": "Alarm clock",
+                    "description": "..."
+                },
+                {
+                    "key": "Mobile/Tablet",
+                    "description": "..."
+                },
+                {
+                    "key": "Camera",
+                    "description": "..."
+                },
+                {
+                    "key": "USB keys",
+                    "description": "..."
+                },
+                {
+                    "key": "GPS navigator",
+                    "description": "..."
+                },
+                {
+                    "key": "Laptop",
+                    "description": "..."
+                },
+                {
+                    "key": "Flashlight",
+                    "description": "..."
+                },
+                {
+                    "key": "Game console",
+                    "description": "..."
+                },
+                {
+                    "key": "Universal adapter",
+                    "description": "..."
+                },
+                {
+                    "key": "Chargers",
+                    "description": "..."
+                },
+                {
+                    "key": "Batteries",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"To eat",
+            "data": [
+                {
+                    "key": "Dishes",
+                    "description": "..."
+                },
+                {
+                    "key": "Food",
+                    "description": "..."
+                },
+                {
+                    "key": "Flask/Bottle",
+                    "description": "..."
+                },
+                {
+                    "key": "Corkscrew",
+                    "description": "..."
+                },
+                {
+                    "key": "Cheese grater",
+                    "description": "..."
+                },
+                {
+                    "key": "Sieve",
+                    "description": "..."
+                },
+                {
+                    "key": "Cooler",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"To sleep",
+            "data": [
+                {
+                    "key": "Sleeping bag",
+                    "description": "..."
+                },
+                {
+                    "key": "Pillow",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"For hiking",
+            "data": [
+                {
+                    "key": "Tent",
+                    "description": "..."
+                },
+                {
+                    "key": "Walking sticks",
+                    "description": "..."
+                },
+                {
+                    "key": "Sleeping pad",
+                    "description": "..."
+                },
+                {
+                    "key": "Camping stove",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Entertainments",
+            "data": [
+                {
+                    "key": "Books",
+                    "description": "..."
+                },
+                {
+                    "key": "Board games",
+                    "description": "..."
+                },
+                {
+                    "key": "Paper and pens",
+                    "description": "..."
+                },
+                {
+                    "key": "Travel notebook",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"Maps",
+            "data": [
+                {
+                    "key": "Itinerary",
+                    "description": "..."
+                },
+                {
+                    "key": "Maps",
+                    "description": "..."
+                },
+                {
+                    "key": "Road atlas",
+                    "description": "..."
+                },
+                {
+                    "key": "Tourist guide",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key":"For others",
+            "data": [
+                {
+                    "key": "Presents",
+                    "description": "..."
+                },
+                {
+                    "key": "Adress book",
+                    "description": "..."
+                },
+                {
+                    "key": "Postcards",
+                    "description": "..."
+                },
+                {
+                    "key": "Stamps",
+                    "description": "..."
+                }
+                
+            ]
+        },
+        {
+            "key":"Always useful",
+            "data": [
+                {
+                    "key": "Knife",
+                    "description": "..."
+                },
+                {
+                    "key": "Binoculars",
+                    "description": "..."
+                },
+                {
+                    "key": "lighters",
+                    "description": "..."
+                },
+                {
+                    "key": "Rope",
+                    "description": "..."
+                },
+                {
+                    "key": "Plastic bags",
+                    "description": "..."
+                },
+                {
+                    "key": "Garbage bag",
+                    "description": "..."
+                },
+                {
+                    "key": "Home keys",
+                    "description": "..."
+                },
+                {
+                    "key": "Destination keys",
+                    "description": "..."
+                }
+            ]
+        },
+        {
+            "key": "Before leaving",
+            "data": [
+                {
+                    "key": "Water the plants",
+                    "description": "..."
+                },
+                {
+                    "key": "Empty trash",
+                    "description": "..."
+                },
+                {
+                    "key": "Turn off electricity/gaz/water",
+                    "description": "..."
+                },
+                {
+                    "key": "Car check",
+                    "description": "..."
+                }
+            ]
+        }
+    ]
+}
