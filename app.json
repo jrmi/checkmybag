@@ -1,11 +1,14 @@
 {
   "expo": {
-    "name": "checkmybag",
-    "description": "A very interesting project.",
+    "name": "CheckMyBag",
+    "description": "Check you bag content before leaving.",
     "slug": "checkmybag",
     "privacy": "public",
     "sdkVersion": "31.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -22,6 +25,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android":{
+      "package": "com.jrmi.checkmybag"
     }
   }
 }

@@ -16,7 +16,7 @@ export default class HomeScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.getStartedText}>Am'I ready for my journey ?</Text>
+        <Text style={styles.getStartedText}>Am I ready for my journey?</Text>
         <View style={styles.continueButton}>
           <Button
             title="Check it out…"
