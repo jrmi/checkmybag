@@ -14,7 +14,7 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
    sodipodi:docname="icons.svg">
   <defs
      id="defs4">
@@ -93,6 +93,32 @@
          stdDeviation="2.3393899"
          id="feGaussianBlur1040" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter918-6"
+       x="-0.038855165"
+       width="1.0777103"
+       y="-0.037965655"
+       height="1.0759313">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.28453"
+         id="feGaussianBlur920-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5139"
+       x="-0.025881616"
+       width="1.0517632"
+       y="-0.032460176"
+       height="1.0649204">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.8846219"
+         id="feGaussianBlur5141" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -101,16 +127,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="119.39604"
-     inkscape:cy="591.65564"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="3337.9125"
+     inkscape:cy="361.44089"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="872"
-     inkscape:window-x="0"
-     inkscape:window-y="66"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:object-nodes="false" />
   <metadata
@@ -121,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -129,6 +155,15 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <image
+       sodipodi:absref="/home/jeremie/Code/checkmybag/assets/images/nuages.jpg"
+       xlink:href="nuages.jpg"
+       width="2666.6667"
+       height="1333.3333"
+       preserveAspectRatio="none"
+       id="image4626"
+       x="1558.8755"
+       y="-363.99326" />
     <image
        y="-11.744967"
        x="94.285713"
@@ -158,7 +193,7 @@
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        id="g1062"
-       transform="translate(264.65997,40.406102)">
+       transform="translate(62.629462,32.324882)">
       <rect
          ry="23.007111"
          y="103.49593"
@@ -198,9 +233,9 @@
     </g>
     <g
        id="g1048"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       transform="matrix(2.8556322,0,0,2.8556322,17.76016,179.70018)">
+       inkscape:export-xdpi="89.6474"
+       inkscape:export-ydpi="89.6474"
+       transform="matrix(2.8556322,0,0,2.8556322,-60.021585,112.01996)">
       <rect
          style="fill:#18d9ff;fill-opacity:1;stroke:none;stroke-width:5.56121397;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect837"
@@ -238,5 +273,76 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <path
+       id="path922-3"
+       style="fill:#000400;fill-opacity:1;stroke:none;stroke-width:8.08082199;opacity:0.68;filter:url(#filter5139)"
+       d="m 3810.1269,569.05416 0.4072,36.30593 66.6261,0.70062 v -37.04637 z m -68.3969,36.52178 h 50.5233 l -0.4073,-38.85871 c 0.01,-10.64312 11.0812,-17.76491 21.7384,-18.23949 l 61.1846,0.11727 c 11.9575,-0.46061 22.245,8.28552 22.0342,20.06759 l -0.1372,36.7376 53.0132,0.83603 -1.2835,229.45784 -206.783,-0.46545 z m 219.7841,0.56809 32.312,0.1949 c 15.0274,0.0727 30.8959,16.45787 31.4868,32.98323 l -0.1713,164.19501 c 0.049,19.77645 -18.62,31.11075 -33.507,31.1229 l -30.7155,-0.22888 z m -230.0843,-0.48485 v 229.55481 h -39.9339 c -11.3763,-0.50343 -26.5271,-16.7106 -26.4029,-30.25145 l 0.7443,-167.16456 c -0.9693,-10.22636 16.1211,-32.29684 31.6031,-32.55149 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+    <rect
+       id="rect3743"
+       width="1024.001"
+       height="499.00101"
+       x="3033.4875"
+       y="369.9454"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99900097;stroke-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:86.16349792px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002255;fill-opacity:1;stroke:none;stroke-width:2.15408731"
+       x="3080.8418"
+       y="492.17746"
+       id="text4552"><tspan
+         sodipodi:role="line"
+         id="tspan4550"
+         x="3080.8418"
+         y="492.17746"
+         style="fill:#002255;stroke-width:2.15408731">Check My Bag</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 3797.2697,560.48273 0.4072,36.30593 66.6261,0.70062 v -37.04637 z m -68.3969,36.52178 h 50.5233 l -0.4073,-38.85871 c 0.01,-10.64312 11.0812,-17.76491 21.7384,-18.23949 l 61.1846,0.11727 c 11.9575,-0.46061 22.245,8.28552 22.0342,20.06759 l -0.1372,36.7376 53.0132,0.83603 -1.2835,229.45784 -206.783,-0.46545 z m 219.7841,0.56809 32.312,0.1949 c 15.0274,0.0727 30.8959,16.45787 31.4868,32.98323 l -0.1713,164.19501 c 0.049,19.77645 -18.62,31.11075 -33.507,31.1229 l -30.7155,-0.22888 z m -230.0843,-0.48485 v 229.55481 h -39.9339 c -11.3763,-0.50343 -26.5271,-16.7106 -26.4029,-30.25145 l 0.7443,-167.16456 c -0.9693,-10.22636 16.1211,-32.29684 31.6031,-32.55149 z"
+       style="fill:#fbfefc;fill-opacity:1;stroke:none;stroke-width:8.08082199"
+       id="path4629" />
+    <g
+       transform="matrix(2.1089494,0,0,2.1089494,3561.0598,265.17609)"
+       id="g1008-5">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3943-3"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:0.453;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21226156;filter:url(#filter918-6)"
+         d="m -1623.0657,-595.39976 174.7143,315.9889 c 65.0595,-233.58554 221.1257,-407.94036 376.4253,-564.05243 -198.0181,144.29606 -229.1886,171.93383 -385.8508,400.02865 z"
+         transform="matrix(0.17090465,0,0,0.1738767,359.24192,311.11676)" />
+      <path
+         d="m 79.327065,205.5703 29.859485,54.94311 c 11.11897,-40.61508 37.79141,-70.93132 64.33284,-98.07557 -33.84222,25.08972 -39.1694,29.89528 -65.9437,69.55566 z"
+         style="fill:#15ad1f;fill-opacity:1;stroke:none;stroke-width:0.20897482"
+         sodipodi:nodetypes="ccccc"
+         id="path860-5"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text5149"
+       y="808.94"
+       x="3093.1802"
+       style="font-style:normal;font-weight:normal;font-size:48.39970779px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20999265"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.20999265"
+         y="808.94"
+         x="3093.1802"
+         id="tspan5147"
+         sodipodi:role="line">Voyagez l'esprit libre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:48.39970779px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20999265"
+       x="3015.8345"
+       y="1013.9147"
+       id="text5145"><tspan
+         sodipodi:role="line"
+         id="tspan5143"
+         x="3015.8345"
+         y="1013.9147"
+         style="stroke-width:1.20999265">Travel with all your stuff</tspan></text>
   </g>
 </svg>

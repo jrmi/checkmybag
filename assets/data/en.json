@@ -1,5 +1,5 @@
 {
-    "categories":[
+    "categories": [
         {
             "key": "Official documents",
             "data": [
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "key":"Payment",
+            "key": "Payment",
             "data": [
                 {
                     "key": "Credit card",
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "key":"Transportation",
+            "key": "Transportation",
             "data": [
                 {
                     "key": "Plane/Bus/Train ticket",
@@ -68,7 +68,7 @@
             ]
         },
         {
-            "key":"Under clothing",
+            "key": "Under clothing",
             "data": [
                 {
                     "key": "Panties/Underwears",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "key":"Top clothings",
+            "key": "Top clothings",
             "data": [
                 {
                     "key": "Sweaters",
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "key":"Bottom clothings",
+            "key": "Bottom clothings",
             "data": [
                 {
                     "key": "Pants / Dress",
@@ -155,7 +155,7 @@
             ]
         },
         {
-            "key":"Headgear",
+            "key": "Headgear",
             "data": [
                 {
                     "key": "Hat",
@@ -180,7 +180,7 @@
             ]
         },
         {
-            "key":"Shoes",
+            "key": "Shoes",
             "data": [
                 {
                     "key": "Street shoes",
@@ -205,7 +205,7 @@
             ]
         },
         {
-            "key":"Rain protection",
+            "key": "Rain protection",
             "data": [
                 {
                     "key": "Rain jacket",
@@ -222,7 +222,7 @@
             ]
         },
         {
-            "key":"Hygenie",
+            "key": "Hygiene",
             "data": [
                 {
                     "key": "Soap",
@@ -251,8 +251,8 @@
             ]
         },
         {
-            "key":"Cosmetics",
-            "data":[
+            "key": "Cosmetics",
+            "data": [
                 {
                     "key": "Deodorant",
                     "description": "..."
@@ -270,7 +270,7 @@
                     "description": "..."
                 },
                 {
-                    "key": "Gel/Laquer",
+                    "key": "Gel/Laque",
                     "description": "..."
                 },
                 {
@@ -284,8 +284,8 @@
             ]
         },
         {
-            "key":"Toilet bag",
-            "data":[
+            "key": "Toilet bag",
+            "data": [
                 {
                     "key": "Nail clippers",
                     "description": "..."
@@ -327,13 +327,13 @@
                     "description": "..."
                 },
                 {
-                    "key": "Epilator",
+                    "key": "Depilator",
                     "description": "..."
                 }
             ]
         },
         {
-            "key":"Drugs",
+            "key": "Drugs",
             "data": [
                 {
                     "key": "Against headache",
@@ -358,8 +358,8 @@
             ]
         },
         {
-            "key":"Health",
-            "data":[
+            "key": "Health",
+            "data": [
                 {
                     "key": "Disinfectant",
                     "description": "..."
@@ -395,7 +395,7 @@
             ]
         },
         {
-            "key":"Against mosquitoes",
+            "key": "Against mosquitoes",
             "data": [
                 {
                     "key": "Mosquito spray",
@@ -420,7 +420,7 @@
             ]
         },
         {
-            "key":"Electronical devices",
+            "key": "Electronic devices",
             "data": [
                 {
                     "key": "Alarm clock",
@@ -469,7 +469,7 @@
             ]
         },
         {
-            "key":"To eat",
+            "key": "To eat",
             "data": [
                 {
                     "key": "Dishes",
@@ -502,7 +502,7 @@
             ]
         },
         {
-            "key":"To sleep",
+            "key": "To sleep",
             "data": [
                 {
                     "key": "Sleeping bag",
@@ -515,7 +515,7 @@
             ]
         },
         {
-            "key":"For hiking",
+            "key": "For hiking",
             "data": [
                 {
                     "key": "Tent",
@@ -536,7 +536,7 @@
             ]
         },
         {
-            "key":"Entertainments",
+            "key": "Entertainments",
             "data": [
                 {
                     "key": "Books",
@@ -557,7 +557,7 @@
             ]
         },
         {
-            "key":"Maps",
+            "key": "Maps",
             "data": [
                 {
                     "key": "Itinerary",
@@ -578,7 +578,7 @@
             ]
         },
         {
-            "key":"For others",
+            "key": "For others",
             "data": [
                 {
                     "key": "Presents",
@@ -596,11 +596,10 @@
                     "key": "Stamps",
                     "description": "..."
                 }
-                
             ]
         },
         {
-            "key":"Always useful",
+            "key": "Always useful",
             "data": [
                 {
                     "key": "Knife",
