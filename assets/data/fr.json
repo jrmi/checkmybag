@@ -1,5 +1,5 @@
 {
-    "categories":[
+    "categories": [
         {
             "key": "Documents importants",
             "data": [
@@ -20,6 +20,10 @@
                     "description": "..."
                 },
                 {
+                    "key": "Carte d'assurance maladie",
+                    "description": "..."
+                },
+                {
                     "key": "Permis Voiture/Moto/Bateau",
                     "description": "..."
                 },
@@ -30,7 +34,7 @@
             ]
         },
         {
-            "key":"Moyens de paiement",
+            "key": "Moyens de paiement",
             "data": [
                 {
                     "key": "Carte de crédit",
@@ -51,7 +55,7 @@
             ]
         },
         {
-            "key":"Transport",
+            "key": "Transport",
             "data": [
                 {
                     "key": "Billets Avion/Train/Bus",
@@ -68,7 +72,7 @@
             ]
         },
         {
-            "key":"Sous vêtements",
+            "key": "Sous vêtements",
             "data": [
                 {
                     "key": "Culottes/Caleçons",
@@ -97,7 +101,7 @@
             ]
         },
         {
-            "key":"Vêtements haut",
+            "key": "Vêtements haut",
             "data": [
                 {
                     "key": "Pulls",
@@ -130,7 +134,7 @@
             ]
         },
         {
-            "key":"Vêtements bas",
+            "key": "Vêtements bas",
             "data": [
                 {
                     "key": "Pantalon / Robe",
@@ -155,7 +159,7 @@
             ]
         },
         {
-            "key":"Pour la tête",
+            "key": "Pour la tête",
             "data": [
                 {
                     "key": "Chapeau",
@@ -180,7 +184,7 @@
             ]
         },
         {
-            "key":"Se chausser",
+            "key": "Se chausser",
             "data": [
                 {
                     "key": "Chaussures de ville",
@@ -209,7 +213,7 @@
             ]
         },
         {
-            "key":"Pour la pluie",
+            "key": "Pour la pluie",
             "data": [
                 {
                     "key": "Veste de pluie",
@@ -226,7 +230,7 @@
             ]
         },
         {
-            "key":"Se laver",
+            "key": "Hygiène",
             "data": [
                 {
                     "key": "Savon",
@@ -255,8 +259,8 @@
             ]
         },
         {
-            "key":"Cosmétiques",
-            "data":[
+            "key": "Cosmétiques",
+            "data": [
                 {
                     "key": "Déodorant",
                     "description": "..."
@@ -288,8 +292,8 @@
             ]
         },
         {
-            "key":"Trousse de toillette",
-            "data":[
+            "key": "Trousse de toillette",
+            "data": [
                 {
                     "key": "Coupe ongles",
                     "description": "..."
@@ -337,14 +341,14 @@
             ]
         },
         {
-            "key":"Médicaments",
+            "key": "Médicaments",
             "data": [
                 {
                     "key": "Contre le mal de tête",
                     "description": "..."
                 },
                 {
-                    "key": "Anti-diahréeique",
+                    "key": "Anti-diahréique",
                     "description": "..."
                 },
                 {
@@ -356,14 +360,14 @@
                     "description": "..."
                 },
                 {
-                    "key": "Pour les brûlures",
+                    "key": "Soin des brûlures",
                     "description": "..."
                 }
             ]
         },
         {
-            "key":"Santé/Protection",
-            "data":[
+            "key": "Santé/Protection",
+            "data": [
                 {
                     "key": "Désinfectant",
                     "description": "..."
@@ -399,7 +403,7 @@
             ]
         },
         {
-            "key":"Contre les moustiques",
+            "key": "Contre les insectes",
             "data": [
                 {
                     "key": "Spray anti-moustiques",
@@ -418,13 +422,17 @@
                     "description": "..."
                 },
                 {
+                    "key": "Tire-tiques",
+                    "description": "..."
+                },
+                {
                     "key": "Serpentins",
                     "description": "..."
                 }
             ]
         },
         {
-            "key":"Matériel électronique",
+            "key": "Matériel électronique",
             "data": [
                 {
                     "key": "Réveil",
@@ -473,7 +481,7 @@
             ]
         },
         {
-            "key":"Alimentation",
+            "key": "Alimentation",
             "data": [
                 {
                     "key": "Couverts/Vaiselle",
@@ -506,7 +514,7 @@
             ]
         },
         {
-            "key":"Pour dormir",
+            "key": "Pour dormir",
             "data": [
                 {
                     "key": "Duvet",
@@ -523,7 +531,7 @@
             ]
         },
         {
-            "key":"Randonnée",
+            "key": "Randonnée",
             "data": [
                 {
                     "key": "Tente",
@@ -544,7 +552,7 @@
             ]
         },
         {
-            "key":"Loisirs",
+            "key": "Loisirs",
             "data": [
                 {
                     "key": "Livres",
@@ -565,7 +573,7 @@
             ]
         },
         {
-            "key":"Se repérer",
+            "key": "Se repérer",
             "data": [
                 {
                     "key": "Itinéraire",
@@ -586,7 +594,7 @@
             ]
         },
         {
-            "key":"Pour les autres",
+            "key": "Pour les autres",
             "data": [
                 {
                     "key": "Cadeaux",
@@ -604,11 +612,10 @@
                     "key": "Timbres",
                     "description": "..."
                 }
-                
             ]
         },
         {
-            "key":"Toujours utile",
+            "key": "Toujours utile",
             "data": [
                 {
                     "key": "Couteau",

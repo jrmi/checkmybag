@@ -7,8 +7,10 @@ import en from "../assets/data/en";
 import BagList from "../components/BagList";
 
 import { AsyncStorage } from "react-native";
+import { getLanguage } from "../services/i18n";
+import i18n from 'i18n-js';
 
-const defaultData = en.categories;
+const dataLang = { en: en.categories, fr: fr.categories };
 
 export default class BaglistScreen extends React.Component {
   static navigationOptions = {
@@ -20,18 +22,18 @@ export default class BaglistScreen extends React.Component {
     this.state = {
       data: {}
     };
+    this.defaultData = dataLang['en']
     this.onDataChange = this.onDataChange.bind(this);
     this._loadData = this._loadData.bind(this);
-    this._loadData();
+  }
+
+  async componentDidMount() {
+    this.defaultData = dataLang[getLanguage()]
+    await this._loadData();
   }
 
   async resetData() {
-    this.state.data.forEach(cat => {
-      cat.data.forEach(item => {
-        item.state = false;
-      });
-    });
-    await this.setState({ data: this.state.data });
+    await this.setState({ data: JSON.parse(JSON.stringify(this.defaultData)) });
     await this._storeData();
     this.props.navigation.navigate("Main");
   }
@@ -39,7 +41,7 @@ export default class BaglistScreen extends React.Component {
   async _storeData() {
     try {
       await AsyncStorage.setItem("data", JSON.stringify(this.state.data));
-    } catch (error) {}
+    } catch (error) { }
   }
 
   async _loadData() {
@@ -48,10 +50,12 @@ export default class BaglistScreen extends React.Component {
       if (value !== null) {
         this.setState({ data: JSON.parse(value) });
       } else {
-        this.setState({ data: defaultData });
+        this.setState({
+          data: JSON.parse(JSON.stringify(this.defaultData))
+        });
       }
     } catch (error) {
-      this.setState({ data: defaultData });
+      this.setState({ data: JSON.parse(JSON.stringify(this.defaultData)) });
     }
   }
 
@@ -64,7 +68,7 @@ export default class BaglistScreen extends React.Component {
     return (
       <View style={styles.container}>
         <BagList data={this.state.data} onDataChange={this.onDataChange} />
-        <Button title="Start over" onPress={() => this.resetData()} />
+        <Button title={i18n.t("startover")} onPress={() => this.resetData()} />
       </View>
     );
   }

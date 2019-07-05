@@ -8,6 +8,8 @@ import {
   Button
 } from "react-native";
 
+import i18n from 'i18n-js';
+
 export default class HomeScreen extends React.Component {
   static navigationOptions = {
     header: null
@@ -16,10 +18,10 @@ export default class HomeScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.getStartedText}>Am I ready for my journey?</Text>
+        <Text style={styles.getStartedText}>{i18n.t("ready?")}</Text>
         <View style={styles.continueButton}>
           <Button
-            title="Check it out…"
+            title={i18n.t("checkit")}
             onPress={() => this.props.navigation.navigate("Bag")}
           />
         </View>
